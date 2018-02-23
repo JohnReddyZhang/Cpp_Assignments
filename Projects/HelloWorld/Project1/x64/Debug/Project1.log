@@ -1,0 +1,11 @@
+﻿生成启动时间为 2016/10/16 15:21:54。
+     1>项目“C:\Visual Studio 2015\Projects\HelloWorld\Project1\Project1.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Visual Studio 2015\Projects\HelloWorld\x64\Debug\Project1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Visual Studio 2015\Projects\HelloWorld\x64\Debug\Project1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Visual Studio 2015\Projects\HelloWorld\x64\Debug\Project1.lib" /MACHINE:X64 x64\Debug\MulArry.obj
+     1>MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，该符号在函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中被引用
+     1>C:\Visual Studio 2015\Projects\HelloWorld\x64\Debug\Project1.exe : fatal error LNK1120: 1 个无法解析的外部命令
+     1>已完成生成项目“C:\Visual Studio 2015\Projects\HelloWorld\Project1\Project1.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.62

@@ -1,0 +1,11 @@
+﻿生成启动时间为 2016/11/14 14:34:02。
+     1>项目“C:\Visual Studio 2015\Projects\FishPointer\FishPointer\FishPointer.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>c:\visual studio 2015\projects\fishpointer\fishpointer\源.cpp(8): error C2633: “Fish”:“inline”是构造函数的唯一合法存储类
+     1>已完成生成项目“C:\Visual Studio 2015\Projects\FishPointer\FishPointer\FishPointer.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.45

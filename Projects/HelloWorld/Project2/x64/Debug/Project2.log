@@ -1,0 +1,13 @@
+﻿生成启动时间为 2016/10/16 15:10:38。
+     1>项目“C:\Visual Studio 2015\Projects\HelloWorld\Project2\Project2.vcxproj”在节点 3 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt "..\Project1\源.cpp"
+         源.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Visual Studio 2015\Projects\HelloWorld\x64\Debug\Strcpy.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Visual Studio 2015\Projects\HelloWorld\x64\Debug\Strcpy.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Visual Studio 2015\Projects\HelloWorld\x64\Debug\Strcpy.lib" /MACHINE:X64 "x64\Debug\源.obj"
+         Project2.vcxproj -> C:\Visual Studio 2015\Projects\HelloWorld\x64\Debug\Strcpy.exe
+     1>已完成生成项目“C:\Visual Studio 2015\Projects\HelloWorld\Project2\Project2.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.71
